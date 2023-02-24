@@ -1,6 +1,6 @@
 <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
   <div class="container">
-    <a class="navbar-brand" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+    <a class="navbar-brand" rel="author" href="{{ "/" | relative_url }}"><img src="/images/logo_onblack.svg" alt="MacDonell Group logo" height=85 /></a>
 
     {%- assign page_paths = site.header_pages -%}
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
@@ -18,7 +18,16 @@
           {%- endif -%}
         {% endfor -%}
         <li class="nav-item">
-          <a class="nav-link" href="{{ site.github.repository_url }}">Fork me on Github</a>
+          <a class="nav-link" href="/research">Research</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/publications">Publications</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/group">Group</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/contact">Contact</a>
         </li>
       </ul>
     </div>

@@ -2,7 +2,7 @@
 <div class="py-5 border-top">
   <div class="container">
 
-    <p class="h5 mb-3">{{ site.title | escape }}</p>
+    <!-- <p class="h5 mb-3">{{ site.title | escape }}</p> -->
 
     <div class="row">
 
@@ -22,19 +22,28 @@
               </a>
             </li>
           {%- endif -%}
+          {%- if site.address1 -%}
+            <li>
+              {{ site.address1 | escape }}
+            </li>
+          {%- endif -%}
+          {%- if site.address2 -%}
+            <li>
+              {{ site.address2 | escape }}
+            </li>
+          {%- endif -%}
         </ul>
       </div>
 
 
       <div class="col-sm text-right">
-        <p>{{- site.description | escape -}}</p>
+        <p>
+          <a href="https://dal.ca"><img src="/images/dal_logo.svg" alt="Dalhousie University logo" height=50 /></a>
+        </p>
 
         <p>
           <a href="https://nicolas-van.github.io/bootstrap-4-github-pages/">Powered by Bootstrap 4 Github Pages</a>
         </p>
-        <p>
-          <a href="https://github.com/nicolas-van/bootstrap-4-github-pages"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/nicolas-van/bootstrap-4-github-pages?style=social"></a>
-        <p>
       </div>
 
     </div>

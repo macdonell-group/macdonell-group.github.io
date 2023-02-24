@@ -30,7 +30,10 @@ $green:   #4bbf73 !default;
 $teal:    #20c997 !default;
 $cyan:    #1f9bcf !default;
 
-$primary:       $gray-900 !default;
+$beak:    #ffd400;
+$wingtip: #242424;
+
+$primary:       $wingtip;
 $secondary:     $white !default;
 $success:       $green !default;
 $info:          $cyan !default;
@@ -40,6 +43,7 @@ $light:         $white !default;
 $dark:          $gray-800 !default;
 
 $min-contrast-ratio:   2.3 !default;
+
 
 // Options
 
@@ -90,8 +94,9 @@ $input-group-addon-bg:                  $gray-300 !default;
 
 // Navbar
 
-$navbar-padding-y:                  1.5rem !default;
-$navbar-dark-hover-color:           $white !default;
+$navbar-padding-y:                  0.75rem;
+$navbar-dark-color:                 $white;
+$navbar-dark-hover-color:           $beak;
 $navbar-light-color:                rgba($black, .3) !default;
 $navbar-light-hover-color:          $gray-900 !default;
 $navbar-light-active-color:         $gray-900 !default;
