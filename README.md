@@ -1,18 +1,14 @@
+# MacDonell Group website
 
-# Boostrap 4 Github Pages
+The source code for the MacDonell Group website. The MacDonell group studies
+photochemical reactions and dynamics using classical and quantum computers at
+Dalhousie University. See [the website](https://macdonell-group.github.io) for
+more details!
 
-A [Bootstrap 4](https://getbootstrap.com/) template project for [Github Pages](https://pages.github.com/) and [Jekyll](https://jekyllrb.com/).
-
-* A full Bootstrap 4 theme usable both on Github Pages and with a standalone Jekyll.
-* Recompiles Bootstrap from SCSS files, which allows to customize Bootstrap's variables and use Bootstrap themes.
-* Full support of Bootstrap's JavaScript plugins.
-* Supports all features of Github Pages and Jekyll.
-
-[See the website for demonstration and documentation](https://nicolas-van.github.io/bootstrap-4-github-pages/).
-
-## Contribution
-
-[See the contribution guide.](./CONTRIBUTING.md)
+## Template
+Built from a customized version of the [Lux](https://bootswatch.com/lux/)
+template on the [Bootstrap 4](https://getbootstrap.com/) template project for
+[Github Pages](https://pages.github.com/) and [Jekyll](https://jekyllrb.com/).
 
 ## License
 

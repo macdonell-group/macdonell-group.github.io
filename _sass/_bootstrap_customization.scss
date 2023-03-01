@@ -13,12 +13,21 @@ $web-font-path: "https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;6
   color-scheme: light;
 }
 
+// Page
+
+.page-content {
+  padding: 119px 0 0;
+}
+
 // Navbar
 
 .navbar {
   font-size: $font-size-sm;
   font-weight: 600;
   text-transform: uppercase;
+  position: fixed;
+  top: 0;
+  width: 100%;
 
   &-nav {
     .nav-link {
@@ -117,7 +126,7 @@ h3,
 h4,
 h5,
 h6 {
-  text-transform: uppercase;
+  text-transform: none;
   letter-spacing: 3px;
 }
 
@@ -129,7 +138,7 @@ h6 {
 
 th {
   font-size: $font-size-sm;
-  text-transform: uppercase;
+  text-transform: none;
 }
 
 .table {

@@ -15,6 +15,7 @@ molecular machines and organic synthesis.
 ---
 
 ### Photochemical reaction pathways and conical intersection seams
+
 Molecular dynamics are governed by potential energy surfaces, which describe
 the energies of electronic states of a molecule for all changes in the
 positions of atomic nuclei. Two electronic states can meet at a conical
@@ -31,8 +32,10 @@ reaction outcomes.
 
 ### Analog quantum simulation of photochemical dynamics
 
+description
 
 ---
 
 ### Digital quantum simulation of photochemical properties
 
+description

@@ -33,10 +33,10 @@ plugins:
 
 # A list of the pages to display in the navigation bar
 header_pages:
-  - research/index.md
-  - publications/index.md
-  - group/index.md
-  - contact/index.md
+  - research.md
+  - publications.md
+  - group.md
+  - contact.md
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -46,9 +46,3 @@ exclude:
   - Gemfile.lock
   - node_modules
   - update_boostrap.sh
-
-include:
-  - research
-  - publications
-  - group
-  - contact
