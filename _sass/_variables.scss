@@ -31,6 +31,7 @@ $teal:    #20c997 !default;
 $cyan:    #1f9bcf !default;
 
 $beak:    #ffd400;
+$drkbeak: #b88800;
 $wingtip: #242424;
 
 $primary:       $wingtip;
@@ -63,8 +64,8 @@ $h3-font-size:                1.5rem !default;
 $h4-font-size:                1.25rem !default;
 $h5-font-size:                1rem !default;
 $h6-font-size:                .75rem !default;
-$headings-font-weight:        600 !default;
-$headings-color:              $gray-900 !default;
+$headings-font-weight:        800;
+$headings-color:              $drkbeak;
 $font-weight-bolder:          bold;
 
 // Tables

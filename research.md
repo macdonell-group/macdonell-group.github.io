@@ -19,6 +19,9 @@ molecular machines and organic synthesis.
 
 ### Photochemical reaction pathways and conical intersection seams
 
+![Reaction pathway passing through a conical intersecion on a seam](/images/conical_seam.svg)
+{: style="float: right; margin: 1em 2em"}
+
 Molecular dynamics are governed by potential energy surfaces, which describe
 the energies of electronic states of a molecule for all changes in the
 positions of atomic nuclei. Two electronic states can meet at a conical
@@ -37,6 +40,9 @@ reaction outcomes.
 ---
 
 ### Analog quantum simulation of photochemical dynamics
+
+![A small organic molecule being mapped onto an analog quantum computer](/images/analog_sim.svg)
+{: style="float: right; margin: 1em 2em"}
 
 Quantum mechanical systems are difficult to simulate with conventional
 (classical) computers because the amount of information required to describe
@@ -57,6 +63,9 @@ state, then letting it evolve naturally with time and performing measurements.
 ---
 
 ### Digital quantum simulation of photochemical properties
+
+![A hydrogen transfer reaction being mapped onto a digital quantum computer](/images/digital_sim.svg)
+{: style="float: right; margin: 1em 2em"}
 
 The last decade has shown great advances and ever-increasing interest in
 the development of quantum computers. One of the earliest foreseeable benefits
