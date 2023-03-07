@@ -4,39 +4,42 @@ layout: default
 
 <div>
 
-  <!--
-  {%- if page.title -%}
-  <header>
-    <h1>{{ page.title }}</h1>
-  </header>
-  {%- endif -%}
-  -->
-
   <section>
     {{ content }}
   </section>
 
   {%- if site.posts.size > 0 -%}
-    <p class="h4">{{ page.list_title | default: "Posts" }}</p>
+    <p class="h2">{{ page.list_title | default: "News" }}</p>
     <ul class="list-unstyled">
-      {%- for post in site.posts -%}
-      <li>
-        <span class="text-muted">
-          {%- assign date_format = "%b %-d, %Y" -%}
-          {{ post.date | date: date_format }}
-        </span>
-        <p class="h5">
-          <a href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
-          </a>
-        </p>
-        {%- if site.show_excerpts -%}
-          {{ post.excerpt }}
-        {%- endif -%}
-      </li>
-      {%- endfor -%}
+      <div class="row">
+        {%- for post in site.posts limit:6 -%}
+        <li>
+          <div class="col-sm d-flex">
+            <div class="card border-primary mb-3" style="width: 20rem;">
+              <div class="card-header">
+                {%- assign date_format = "%b %-d, %Y" -%}
+                {{ post.date | date: date_format }}
+              </div>
+              <div class="card-body">
+                <h4 class="card-title text-truncate">
+                  <a href="{{ post.url | relative_url }}">
+                    {{ post.title | escape }}
+                  </a>
+                </h4>
+                {%- if site.show_excerpts -%}
+                  <p class="card-text">
+                    {{ post.excerpt }}
+                  </p>
+                {%- endif -%}
+              </div>
+            </div>
+          </div>
+        </li>
+        {%- endfor -%}
+      </div>
     </ul>
 
+    <p><a href="{{ "/news.html" | relative_url }}">News archive</a></p>
     <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
   {%- endif -%}
 

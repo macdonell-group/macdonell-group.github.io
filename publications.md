@@ -5,7 +5,7 @@ title: Publications
 
 ### Before Dalhousie
 
-#### University of Sydney
+#### @ University of Sydney
 
 {: start="14"}
 {: reversed="reversed"}
@@ -24,7 +24,7 @@ title: Publications
     chemical dynamics. [*Chem. Sci.*](https://doi.org/10.1039/D1SC02142G)
     **2021**, *12*, 9794–9805.
 
-#### University of Ottawa / National Research Council Canada
+#### @ University of Ottawa / National Research Council Canada
 
 {: start="11"}
 {: reversed="reversed"}
@@ -76,7 +76,7 @@ title: Publications
     **2016**, *145*, 114306.
 
 
-#### Carleton University
+#### @ Carleton University
 
 {: start="2"}
 {: reversed="reversed"}

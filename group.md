@@ -7,7 +7,7 @@ title: Group
 # Group photos
 ### March 2023
 
-![The group is just me](/images/macdonell_profile.jpg)
+![The group is just me](/images/groupphoto_placeholder.png)
 
 ---
 
