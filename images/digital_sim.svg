@@ -24,9 +24,9 @@
      inkscape:document-units="px"
      showgrid="false"
      units="px"
-     inkscape:zoom="0.72337262"
-     inkscape:cx="34.560335"
-     inkscape:cy="378.09006"
+     inkscape:zoom="1.0230034"
+     inkscape:cx="83.08868"
+     inkscape:cy="292.76541"
      inkscape:window-width="1920"
      inkscape:window-height="994"
      inkscape:window-x="0"
@@ -124,17 +124,14 @@
          d="m 524.36465,984.46474 h 15.81585 v -4.529 l 10.11177,12.61466 -10.11177,12.6147 v -4.529 h -15.81585 z"
          style="fill:#ffd400;fill-opacity:1;fill-rule:evenodd;stroke:#242424;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          sodipodi:nodetypes="cccccccc" />
-      <text
-         xml:space="preserve"
-         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial Bold Italic';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#242424;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="528.90845"
-         y="996.82648"
-         id="text5489"><tspan
-           sodipodi:role="line"
-           id="tspan5487"
-           x="528.90845"
-           y="996.82648"
-           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;font-family:Arial;-inkscape-font-specification:'Arial Bold Italic';fill:#242424;fill-opacity:1">Ĥ</tspan></text>
+      <g
+         aria-label="Ĥ"
+         id="text5489"
+         style="font-style:italic;font-weight:bold;font-size:10.6667px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial Bold Italic';letter-spacing:0px;word-spacing:0px;fill:#242424;stroke-width:1px">
+        <path
+           d="m 534.61159,993.41501 h -2.95313 l -0.71355,3.41147 h -1.57292 l 1.59896,-7.63544 h 1.56772 l -0.61459,2.94792 h 2.95314 l 0.61979,-2.94792 h 1.56771 l -1.59375,7.63544 h -1.57292 z m -0.24479,-5.83856 -0.91667,0.92708 h -1.22917 l 1.54688,-1.56771 h 1.39584 l 0.63541,1.56771 h -1.03125 z"
+           id="path1019" />
+      </g>
       <g
          transform="translate(-6.1363033,0.24776)"
          id="g5618">
