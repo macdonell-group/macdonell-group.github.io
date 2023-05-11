@@ -28,6 +28,7 @@ $web-font-path: "https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;6
   position: fixed;
   top: 0;
   bottom: auto;
+  z-index: 10;
   width: 100%;
 
   &-nav {
@@ -140,6 +141,11 @@ h6 {
 th {
   font-size: $font-size-sm;
   text-transform: none;
+}
+
+th, td {
+  padding-top: 30px;
+  padding-bottom: 30px;
 }
 
 .table {
