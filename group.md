@@ -5,9 +5,9 @@ title: Group
 
 
 # Group photos
-### March 2023
+### June 2023
 
-![No group photo yet, just grey people](/images/groupphoto_placeholder.png)
+![Jongkwon Ha, Ryan MacDonell, and Veronika Keras at the Halifax Waterfront](/images/groupphoto_june2023.jpg)
 
 ---
 
