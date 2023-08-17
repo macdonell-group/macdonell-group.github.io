@@ -18,7 +18,7 @@ Department of Chemistry \
 Chemistry Building \
 6274 Coburg Rd \
 PO Box 15000 Halifax \
-NS B3J 4H9, Canada
+NS B3H 4R2, Canada
 
 
 #### Ryan's office

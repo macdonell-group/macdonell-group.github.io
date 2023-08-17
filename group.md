@@ -27,6 +27,7 @@ title: Group
     <td style="padding-left: 30px">
       <h3>Ryan MacDonell</h3>
       <p><b>Assistant Professor</b></p>
+      <p><b>Department of Chemistry, Department of Physics and Atmospheric Science</b></p>
 
       <p>
       Ryan received his B.Sc. Honours Chemistry from Carleton University in 2014.
