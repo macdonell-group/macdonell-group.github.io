@@ -76,21 +76,42 @@ title: Group
       <img src="/images/nophoto_profile.png" alt="Photo placeholder" />
     </td>
     <td style="padding-left: 30px">
-      <h3>Veronika Keras</h3>
-      <p><b>Summer Student</b></p>
+      <h3>Katlyn Near</h3>
+      <p><b>Research Assistant</b></p>
 
       <p>
-      Veronika started her B.Sc. at Dalhousie in 2022. She is working on
-      adding symmetry to nuclear basis sets in classical computing methods
-      for nonadiabatic dynamics.
+      Katlyn is a student in the Department of Chemistry at Dal. She started
+      her B.Sc. in 2021. Her project will focus on visualizing and identifying
+      trends in projections of conical intersection seams.
       </p>
 
       <p float="left">
-        <a href="mailto:vr991824@dal.ca"><img src="/images/icons8-mail.svg" /></a>
+        <a href="mailto:kt397109@dal.ca"><img src="/images/icons8-mail.svg" /></a>
       </p>
     </td>
   </tr>
 </tbody>
 </table>
+<br/>
 
-<!-- # Group alumni -->
+
+# Group alumni
+
+<table class="table table-hover">
+<thead>
+  <tr>
+    <th scope="col">Name</th>
+    <th scope="col">Group position</th>
+    <th scope="col">Year</th>
+    <th scope="col">Current position</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Veronika Keras</td>
+    <td>Summer student</td>
+    <td>2023</td>
+    <td>Completing B.Sc. at Dal</td>
+  </tr>
+</tbody>
+</table>

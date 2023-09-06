@@ -13,12 +13,12 @@ title: Publications
     Navickas, T.; Rao, A.D.; Millican, M.J.; Pérez-Sanchez, J.B.;
     Yuen-Zhou, J.; Biercuk, M.J.; Hempel, C.; Tan, T.R.; Kassal, I. Direct
     observation of geometric phase in dynamics around a conical intersection.
-    2022, [arXiv:2211.07320 [quant-ph]](https://arxiv.org/abs/2211.07320).
+    [*Nat. Chem.*](https://doi.org/10.1038/s41557-023-01300-3) **2023**, In press.
 13. <u>MacDonell, R.J.</u>; Navickas, T.; Wohlers-Reichel, T.F.;
     Valahu, C.H.; Rao, A.D.; Millican, M.J.; Currington, M.A.; Biercuk, M.J.;
     Tan, T.R.; Hempel, C.; Kassal, I. Predicting molecular vibronic spectra
-    using time-domain analog quantum simulation. 2022,
-    [arXiv:2209.06558 [quant-ph]](https://arxiv.org/abs/2209.06558).
+    using time-domain analog quantum simulation.
+    [*Chem. Sci.*](https://doi.org/10.1039/D3SC02453A) **2023**, In press.
 9.  <u>MacDonell, R.J.</u>; Dickerson, C.E.; Birch, C.J.T.; Kumar, A.; Edmunds,
     C.L.; Biercuk, M.J.; Hempel, C.; Kassal, I. Analog quantum simulation of
     chemical dynamics. [*Chem. Sci.*](https://doi.org/10.1039/D1SC02142G)
