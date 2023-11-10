@@ -3,11 +3,16 @@ layout: page
 title: Group
 ---
 
+# Join us!
+<font size=5>
+Graduate and summer student positions available! Send an email to Ryan for more details.
+</font><br/>
 
 # Group photos
 ### June 2023
 
 ![Jongkwon Ha, Ryan MacDonell, and Veronika Keras at the Halifax Waterfront](/images/groupphoto_june2023.jpg)
+From left to right: Jongkwon, Ryan, Veronika
 
 ---
 
@@ -48,7 +53,7 @@ title: Group
   </tr>
   <tr>
     <td>
-      <img src="/images/nophoto_profile.png" alt="Photo placeholder" />
+      <img src="/images/ha_profile.jpg" alt="Photo of Jongkwon Ha" />
     </td>
     <td style="padding-left: 30px">
       <h3>Jongkwon Ha</h3>
@@ -73,7 +78,7 @@ title: Group
   </tr>
   <tr>
     <td>
-      <img src="/images/nophoto_profile.png" alt="Photo placeholder" />
+      <img src="/images/near_profile.jpg" alt="Photo of Katlyn Near" />
     </td>
     <td style="padding-left: 30px">
       <h3>Katlyn Near</h3>
