@@ -1,5 +1,5 @@
 ---
-title: Jongkwon: NRF Fellow
+title: 'Jongkwon: NRF Fellow'
 ---
 
 Congratulations to Jongkwon for being awarded a prestigious postdoctoral

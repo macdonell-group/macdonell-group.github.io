@@ -57,7 +57,7 @@ From left to right: Jongkwon, Ryan, Veronika
     </td>
     <td style="padding-left: 30px">
       <h3>Jongkwon Ha</h3>
-      <p><b>Postdoctoral Fellow</b></p>
+      <p><b>Postdoctoral Fellow, NRF Fellow</b></p>
 
       <p>
       Jongkwon completed his B.Sc. at Ulsan National Institute of Technology
@@ -66,13 +66,37 @@ From left to right: Jongkwon, Ryan, Veronika
       and machine learning. He completed his Ph.D. in 2022 and stayed briefly
       at UNIST as a postdoctoral researcher. In 2023, he joined the MacDonell
       Group to work on developing analog quantum simulation techniques for photochemical
-      dynamics.
+      dynamics. In September 2023, he earned a fellowship from the National Research
+      Foundation of Korea to continue his work at Dalhousie.
       </p>
 
       <p float="left">
         <a href="mailto:jkha@dal.ca"><img src="/images/icons8-mail.svg" /></a>
         <a href="https://scholar.google.ca/citations?user=3HImVZQAAAAJ"><img src="/images/icons8-google-scholar.svg" /></a>
         <a href="https://kr.linkedin.com/in/jong-kwon-ha-667b0a227"><img src="/images/icons8-linkedin.svg" /></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="/images/nophoto_profile.png" alt="Placeholder photo" />
+    </td>
+    <td style="padding-left: 30px">
+      <h3>Edith Leal-Sánchez</h3>
+      <p><b>Postdoctoral Fellow</b></p>
+
+      <p>
+      Edith completed her B.Chem. at the National Autonomous University of Mexico
+      (UNAM) in 2019. She remained at UNAM for her Ph.D., studying quantum
+      molecular dynamics with Prof. Jesús Hernández Trujillo. After successfully
+      defending her Ph.D. in late 2023, she joined the MacDonell Group as a
+      postdoctoral fellow to work on hybrid digital quantum simulation algorithms
+      for vibronic systems.
+      </p>
+
+      <p float="left">
+        <a href="mailto:none"><img src="/images/icons8-mail.svg" /></a>
+        <a href="https://scholar.google.ca/citations?user=74aeDEoAAAAJ"><img src="/images/icons8-google-scholar.svg" /></a>
       </p>
     </td>
   </tr>
