@@ -9,9 +9,14 @@ Graduate and summer student positions available! Send an email to Ryan for more 
 </font><br/>
 
 # Group photos
+### April 2024
+
+![Ryan MacDonell, Edith Leal-Sánchez, Katlyn Near, and Jongkwon Ha in the Dalhousie Quad](/images/groupphoto_apr2024.jpg)
+From left to right: Ryan, Edith, Katlyn, Jongkwon
+
 ### June 2023
 
-![Jongkwon Ha, Ryan MacDonell, and Veronika Keras at the Halifax Waterfront](/images/groupphoto_june2023.jpg)
+![Jongkwon Ha, Ryan MacDonell, and Veronika Keras at the Halifax Waterfront](/images/groupphoto_jun2023.jpg)
 From left to right: Jongkwon, Ryan, Veronika
 
 ---
@@ -79,7 +84,7 @@ From left to right: Jongkwon, Ryan, Veronika
   </tr>
   <tr>
     <td>
-      <img src="/images/nophoto_profile.png" alt="Placeholder photo" />
+      <img src="/images/lealsanchez_profile.jpg" alt="Photo of Edith Leal-Sánchez" />
     </td>
     <td style="padding-left: 30px">
       <h3>Edith Leal-Sánchez</h3>
@@ -97,6 +102,7 @@ From left to right: Jongkwon, Ryan, Veronika
       <p float="left">
         <a href="mailto:none"><img src="/images/icons8-mail.svg" /></a>
         <a href="https://scholar.google.ca/citations?user=74aeDEoAAAAJ"><img src="/images/icons8-google-scholar.svg" /></a>
+        <a href="https://mx.linkedin.com/in/edith-leal-s%C3%A1nchez-47522925b"><img src="/images/icons8-linkedin.svg" /></a>
       </p>
     </td>
   </tr>

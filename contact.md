@@ -16,8 +16,8 @@ title: Contact
 
 Department of Chemistry \
 Chemistry Building \
-6274 Coburg Rd \
-PO Box 15000 Halifax \
+6243 Alumni Cres \
+PO Box 15000, Halifax \
 NS B3H 4R2, Canada
 
 
