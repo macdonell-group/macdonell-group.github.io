@@ -5,7 +5,7 @@ title: Group
 
 # Join us!
 <font size=5>
-Graduate and summer student positions available! Send an email to Ryan for more details.
+Graduate and undergraduate student positions available! Send an email to Ryan for more details.
 </font><br/>
 
 # Group photos
@@ -108,6 +108,44 @@ From left to right: Jongkwon, Ryan, Veronika
   </tr>
   <tr>
     <td>
+      <img src="/images/sanjeev_profile.jpg" alt="Photo of Sohan Sanjeev" />
+    </td>
+    <td style="padding-left: 30px">
+      <h3>Sohan Sanjeev</h3>
+      <p><b>Summer Research Student</b></p>
+
+      <p>
+      Sohan is a Dalhousie student pursing a major in Biochemistry and a minor in Computer
+      Science. He started his B.Sc. 2022. His project is focused on the time-domain
+      simulation of spectra in a pre-Born-Oppenheimer picture.
+      </p>
+
+      <p float="left">
+        <a href="mailto:sh206627@dal.ca"><img src="/images/icons8-mail.svg" /></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="/images/macdonald_profile.jpg" alt="Photo of Alex MacDonald" />
+    </td>
+    <td style="padding-left: 30px">
+      <h3>Alex MacDonald</h3>
+      <p><b>Summer Research Student</b></p>
+
+      <p>
+      Alex is a student in the Department of Chemistry at Dal. He started his B.Sc.
+      in 2019. During his project, he will test symmetry adapted linear combinations
+      in nonadiabatic dynamics simulations with Gaussian trajectory basis functions.
+      </p>
+
+      <p float="left">
+        <a href="mailto:al980372@dal.ca"><img src="/images/icons8-mail.svg" /></a>
+      </p>
+    </td>
+  </tr>
+  <!-- <tr>
+    <td>
       <img src="/images/near_profile.jpg" alt="Photo of Katlyn Near" />
     </td>
     <td style="padding-left: 30px">
@@ -124,7 +162,7 @@ From left to right: Jongkwon, Ryan, Veronika
         <a href="mailto:kt397109@dal.ca"><img src="/images/icons8-mail.svg" /></a>
       </p>
     </td>
-  </tr>
+  </tr> -->
 </tbody>
 </table>
 <br/>
@@ -136,17 +174,23 @@ From left to right: Jongkwon, Ryan, Veronika
 <thead>
   <tr>
     <th scope="col">Name</th>
-    <th scope="col">Group position</th>
-    <th scope="col">Year</th>
+    <th scope="col">Last group position</th>
+    <th scope="col">Time in group</th>
     <th scope="col">Current position</th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td>Veronika Keras</td>
-    <td>Summer student</td>
-    <td>2023</td>
-    <td>Completing B.Sc. at Dal</td>
+    <td>Summer research student</td>
+    <td>May-Aug. 2023</td>
+    <td>Summer research student at Dal</td>
+  </tr>
+  <tr>
+    <td>Katlyn Near</td>
+    <td>Research assistant</td>
+    <td>Sept. 2023-Apr. 2024</td>
+    <td>Summer research student at UVic</td>
   </tr>
 </tbody>
 </table>
