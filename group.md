@@ -9,6 +9,12 @@ Graduate and undergraduate student positions available! Send an email to Ryan fo
 </font><br/>
 
 # Group photos
+### July 2024
+
+![Sohan Sanjeev, Edith Leal-Sánchez, Ryan MacDonell, Jongkwon Ha, and Alex MacDonald in the Dalhousie Hicks Foyer](/images/groupphoto_jul2024.jpg)
+From left to right: Sohan, Edith, Ryan, Jongkwon, Alex
+
+
 ### April 2024
 
 ![Ryan MacDonell, Edith Leal-Sánchez, Katlyn Near, and Jongkwon Ha in the Dalhousie Quad](/images/groupphoto_apr2024.jpg)
