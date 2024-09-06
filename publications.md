@@ -3,6 +3,15 @@ layout: page
 title: Publications
 ---
 
+### @ Dalhousie
+
+{: start="15"}
+{: reversed="reversed"}
+15. Olaya-Agudelo, V.C.; Stewart, B.; Valahu, C.H.; <u>MacDonell, R.J.</u>;
+    Millican, M.J.; Matsos, V.G.; Scuccimarra, F.; Tan, T.R.; Kassal, I.
+    Simulating open-system molecular dynamics on analog quantum computers.
+    2024, [arXiv:2407.17819 [quant-ph]](https://arxiv.org/abs/2407.17819).
+
 ### Before Dalhousie
 
 #### @ University of Sydney

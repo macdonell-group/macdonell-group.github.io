@@ -8,23 +8,6 @@ title: Group
 Graduate and undergraduate student positions available! Send an email to Ryan for more details.
 </font><br/>
 
-# Group photos
-### July 2024
-
-![Sohan Sanjeev, Edith Leal-Sánchez, Ryan MacDonell, Jongkwon Ha, and Alex MacDonald in the Dalhousie Hicks Foyer](/images/groupphoto_jul2024.jpg)
-From left to right: Sohan, Edith, Ryan, Jongkwon, Alex
-
-
-### April 2024
-
-![Ryan MacDonell, Edith Leal-Sánchez, Katlyn Near, and Jongkwon Ha in the Dalhousie Quad](/images/groupphoto_apr2024.jpg)
-From left to right: Ryan, Edith, Katlyn, Jongkwon
-
-### June 2023
-
-![Jongkwon Ha, Ryan MacDonell, and Veronika Keras at the Halifax Waterfront](/images/groupphoto_jun2023.jpg)
-From left to right: Jongkwon, Ryan, Veronika
-
 ---
 
 # People
@@ -68,7 +51,7 @@ From left to right: Jongkwon, Ryan, Veronika
     </td>
     <td style="padding-left: 30px">
       <h3>Jongkwon Ha</h3>
-      <p><b>Postdoctoral Fellow, NRF Fellow</b></p>
+      <p><b>Postdoctoral Fellow</b></p>
 
       <p>
       Jongkwon completed his B.Sc. at Ulsan National Institute of Technology
@@ -77,7 +60,7 @@ From left to right: Jongkwon, Ryan, Veronika
       and machine learning. He completed his Ph.D. in 2022 and stayed briefly
       at UNIST as a postdoctoral researcher. In 2023, he joined the MacDonell
       Group to work on developing analog quantum simulation techniques for photochemical
-      dynamics. In September 2023, he earned a fellowship from the National Research
+      dynamics. In September 2023, he earned a 1-year fellowship from the National Research
       Foundation of Korea to continue his work at Dalhousie.
       </p>
 
@@ -114,64 +97,87 @@ From left to right: Jongkwon, Ryan, Veronika
   </tr>
   <tr>
     <td>
-      <img src="/images/sanjeev_profile.jpg" alt="Photo of Sohan Sanjeev" />
+      <img src="/images/williamson_profile.jpg" alt="Photo of Siri Williamson" />
     </td>
     <td style="padding-left: 30px">
-      <h3>Sohan Sanjeev</h3>
-      <p><b>Summer Research Student</b></p>
+      <h3>Siri Williamson</h3>
+      <p><b>Masters Student</b></p>
 
       <p>
-      Sohan is a Dalhousie student pursing a major in Biochemistry and a minor in Computer
-      Science. He started his B.Sc. 2022. His project is focused on the time-domain
-      simulation of spectra in a pre-Born-Oppenheimer picture.
+      Siri completed her B.Sc. in chemistry and physics at Carleton University in
+      2023. There, she worked on her Honours research project with Chris Rowley on
+      the simulation of methane adsorption in covalent organic frameworks.
+      She joined the group in Fall 2024, and she is working on the analog quantum
+      simulation of chemical systems.
       </p>
 
       <p float="left">
-        <a href="mailto:sh206627@dal.ca"><img src="/images/icons8-mail.svg" /></a>
+        <a href="mailto:siri.williamson@dal.ca"><img src="/images/icons8-mail.svg" /></a>
       </p>
     </td>
   </tr>
   <tr>
     <td>
-      <img src="/images/macdonald_profile.jpg" alt="Photo of Alex MacDonald" />
-    </td>
-    <td style="padding-left: 30px">
-      <h3>Alex MacDonald</h3>
-      <p><b>Summer Research Student</b></p>
-
-      <p>
-      Alex is a student in the Department of Chemistry at Dal. He started his B.Sc.
-      in 2019. During his project, he will test symmetry adapted linear combinations
-      in nonadiabatic dynamics simulations with Gaussian trajectory basis functions.
-      </p>
-
-      <p float="left">
-        <a href="mailto:al980372@dal.ca"><img src="/images/icons8-mail.svg" /></a>
-      </p>
-    </td>
-  </tr>
-  <!-- <tr>
-    <td>
       <img src="/images/near_profile.jpg" alt="Photo of Katlyn Near" />
     </td>
     <td style="padding-left: 30px">
       <h3>Katlyn Near</h3>
-      <p><b>Research Assistant</b></p>
+      <p><b>Honours Student</b></p>
 
       <p>
       Katlyn is a student in the Department of Chemistry at Dal. She started
-      her B.Sc. in 2021. Her project will focus on visualizing and identifying
-      trends in projections of conical intersection seams.
+      her B.Sc. in 2021, and worked in the group in 2023-2024 as a research
+      assistant. She has returned in 2024 to continue her project focusing on
+      visualizing and identifying trends in projections of conical intersection
+      seams.
       </p>
 
       <p float="left">
         <a href="mailto:kt397109@dal.ca"><img src="/images/icons8-mail.svg" /></a>
       </p>
     </td>
-  </tr> -->
+  </tr>
+  <tr>
+    <td>
+      <img src="/images/vain_profile.jpg" alt="Photo of Fanny Vain" />
+    </td>
+    <td style="padding-left: 30px">
+      <h3>Fanny Vain</h3>
+      <p><b>Honours Student</b></p>
+
+      <p>
+      Fanny is a student in the Department of Chemistry at Dal. She started her B.Sc.
+      in 2021. Her Honours project is focused on the role of property conservation
+      in digital quantum algorithms for quantum chemistry.
+      </p>
+
+      <p float="left">
+        <a href="maito:fvain@dal.ca"><img src="/images/icons8-mail.svg" /></a>
+      </p>
+    </td>
+  </tr>
 </tbody>
 </table>
 <br/>
+
+---
+
+# Group photos
+### July 2024
+
+![Sohan Sanjeev, Edith Leal-Sánchez, Ryan MacDonell, Jongkwon Ha, and Alex MacDonald in the Dalhousie Hicks Foyer](/images/groupphoto_jul2024.jpg)
+From left to right: Sohan, Edith, Ryan, Jongkwon, Alex
+
+
+### April 2024
+
+![Ryan MacDonell, Edith Leal-Sánchez, Katlyn Near, and Jongkwon Ha in the Dalhousie Quad](/images/groupphoto_apr2024.jpg)
+From left to right: Ryan, Edith, Katlyn, Jongkwon
+
+### June 2023
+
+![Jongkwon Ha, Ryan MacDonell, and Veronika Keras at the Halifax Waterfront](/images/groupphoto_jun2023.jpg)
+From left to right: Jongkwon, Ryan, Veronika
 
 
 # Group alumni
@@ -190,13 +196,19 @@ From left to right: Jongkwon, Ryan, Veronika
     <td>Veronika Keras</td>
     <td>Summer research student</td>
     <td>May-Aug. 2023</td>
-    <td>Summer research student at Dal</td>
+    <td>Completing B.Sc. at Dal</td>
   </tr>
   <tr>
-    <td>Katlyn Near</td>
-    <td>Research assistant</td>
-    <td>Sept. 2023-Apr. 2024</td>
-    <td>Summer research student at UVic</td>
+    <td>Alex MacDonald</td>
+    <td>Summer research student</td>
+    <td>May-Aug. 2024</td>
+    <td>Honours student in Veinot Group (Dal)</td>
+  </tr>
+  <tr>
+    <td>Sohan Sanjeev</td>
+    <td>Summer research student</td>
+    <td>May-Aug. 2024</td>
+    <td>Completing B.Sc. at Dal</td>
   </tr>
 </tbody>
 </table>
