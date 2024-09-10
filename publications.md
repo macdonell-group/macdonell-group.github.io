@@ -5,8 +5,16 @@ title: Publications
 
 ### @ Dalhousie
 
-{: start="15"}
+{: start="17"}
 {: reversed="reversed"}
+17. Ha, J.-K.; <u>MacDonell, R.J.</u> Analog Quantum Simulation of Coupled
+    Electron-Nuclear Dynamics in Molecules. 2024,
+    [arXiv:2409.04427 [quant-ph]](https://arxiv.org/abs/2409.04427).
+16. Navickas, T.; <u>MacDonell, R.J.</u>; Valahu, C.H.; Olaya-Agudelo, V.C.;
+    Scuccimarra, F.; Millican, M.J.; Matsos, V.G.; Nourse, H.L.; Rao, A.D.;
+    Biercuk, M.J.; Hempel, C.; Kassal, I.; Tan, T.R. Experimental Quantum
+    Simulation of Chemical Dynamics
+    2024, [arXiv:2409.04044 [quant-ph]](https://arxiv.org/abs/2409.04044).
 15. Olaya-Agudelo, V.C.; Stewart, B.; Valahu, C.H.; <u>MacDonell, R.J.</u>;
     Millican, M.J.; Matsos, V.G.; Scuccimarra, F.; Tan, T.R.; Kassal, I.
     Simulating open-system molecular dynamics on analog quantum computers.
