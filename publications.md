@@ -31,16 +31,17 @@ title: Publications
     Yuen-Zhou, J.; Biercuk, M.J.; Hempel, C.; Tan, T.R.; Kassal, I. Direct
     observation of geometric phase in dynamics around a conical intersection.
     [*Nat. Chem.*](https://doi.org/10.1038/s41557-023-01300-3) **2023**, 15,
-    1503–1508.
+    1503–1508. ([arXiv](https://arxiv.org/abs/2211.07320))
 13. <u>MacDonell, R.J.</u>; Navickas, T.; Wohlers-Reichel, T.F.;
     Valahu, C.H.; Rao, A.D.; Millican, M.J.; Currington, M.A.; Biercuk, M.J.;
     Tan, T.R.; Hempel, C.; Kassal, I. Predicting molecular vibronic spectra
     using time-domain analog quantum simulation.
     [*Chem. Sci.*](https://doi.org/10.1039/D3SC02453A) **2023**, 14, 9439–9451.
+    ([arXiv](https://arxiv.org/abs/2209.06558))
 9.  <u>MacDonell, R.J.</u>; Dickerson, C.E.; Birch, C.J.T.; Kumar, A.; Edmunds,
     C.L.; Biercuk, M.J.; Hempel, C.; Kassal, I. Analog quantum simulation of
     chemical dynamics. [*Chem. Sci.*](https://doi.org/10.1039/D1SC02142G)
-    **2021**, *12*, 9794–9805.
+    **2021**, *12*, 9794–9805. ([arXiv](https://arxiv.org/abs/2012.01852))
 
 #### @ University of Ottawa / National Research Council Canada
 
@@ -49,12 +50,12 @@ title: Publications
 12. <u>MacDonell, R.J.</u>; Patchkovskii, S.; Schuurman, M.S. A
     comparison of partial atomic charges for electronically excited states.
     [*J. Chem. Theory Comput.*](https://doi.org/10.1021/acs.jctc.1c01101)
-    **2022**, *18*, 1061–1071.
+    **2022**, *18*, 1061–1071. ([arXiv](https://arxiv.org/abs/2111.12208))
 11. Seidu, I.; Neville, S.P.; <u>MacDonell, R.J.</u>; Schuurman, M.S.
     Resolving Competing Conical Intersection Pathways: Time-Resolved X-ray Absorption
     Spectroscopy of trans-1,3-Butadiene.
     [*Phys. Chem. Chem. Phys.*](https://doi.org/10.1039/D1CP05085K)
-    **2022**, *24*, 1345–1354.
+    **2022**, *24*, 1345–1354. ([arXiv](https://arxiv.org/abs/2111.12065))
 10. Williams, M.; Forbes, R.; Weir, H.; Veyrinas, K.;
     <u>MacDonell, R.J.</u>; Boguslavskiy, A.E.; Schuurman, M.S.;
     Stolow, A.; Martínez, T.J.  Unmasking the *cis*-Stilbene Phantom
