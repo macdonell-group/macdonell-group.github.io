@@ -156,6 +156,26 @@ Graduate and undergraduate student positions available! Send an email to Ryan fo
       </p>
     </td>
   </tr>
+  <tr>
+    <td>
+      <img src="/images/aperez_profile.jpg" alt="Photo of Andy Arrigoni Pérez" />
+    </td>
+    <td style="padding-left: 30px">
+      <h3>Andy Arrigoni Pérez</h3>
+      <p><b>Research Assistant</b></p>
+
+      <p>
+      Andy is a visiting research assistant for the winter semester. He recently
+      completed his B.A. in physics and computer science at Amherst College. His
+      research project involves the implementation of a direct dynamics algorithm
+      without the Born-Oppenheimer approximation.
+      </p>
+
+      <p float="left">
+        <a href="maito:AArrigoniPerez@dal.ca"><img src="/images/icons8-mail.svg" /></a>
+      </p>
+    </td>
+  </tr>
 </tbody>
 </table>
 <br/>
