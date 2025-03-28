@@ -183,21 +183,27 @@ Graduate and undergraduate student positions available! Send an email to Ryan fo
 ---
 
 # Group photos
+### March 2025
+
+![Jongkwon Ha, Ryan MacDonell, Edith Leal-Sánchez, Siri Williamson, Katlyn Near, Andy Arrigoni Pérez, and Fanny Vain in front of the Dalhousie touch tanks](/images/groupphoto_mar2025.jpg)
+In front of the Dalhousie touch tanks. From left to right: Jongkwon, Ryan, Edith, Siri, Katlyn, Andy, Fanny
+
+
 ### July 2024
 
 ![Sohan Sanjeev, Edith Leal-Sánchez, Ryan MacDonell, Jongkwon Ha, and Alex MacDonald in the Dalhousie Hicks Foyer](/images/groupphoto_jul2024.jpg)
-From left to right: Sohan, Edith, Ryan, Jongkwon, Alex
+In the Henry Hicks foyer. From left to right: Sohan, Edith, Ryan, Jongkwon, Alex
 
 
 ### April 2024
 
 ![Ryan MacDonell, Edith Leal-Sánchez, Katlyn Near, and Jongkwon Ha in the Dalhousie Quad](/images/groupphoto_apr2024.jpg)
-From left to right: Ryan, Edith, Katlyn, Jongkwon
+In the Dalhousie Quad. From left to right: Ryan, Edith, Katlyn, Jongkwon
 
 ### June 2023
 
 ![Jongkwon Ha, Ryan MacDonell, and Veronika Keras at the Halifax Waterfront](/images/groupphoto_jun2023.jpg)
-From left to right: Jongkwon, Ryan, Veronika
+At the Hailfax Waterfront. From left to right: Jongkwon, Ryan, Veronika
 
 
 # Group alumni
