@@ -108,7 +108,7 @@ Graduate and undergraduate student positions available! Send an email to Ryan fo
       2023. There, she worked on her Honours research project with Chris Rowley on
       the simulation of methane adsorption in covalent organic frameworks.
       She joined the group in Fall 2024, and she is working on the analog quantum
-      simulation of chemical systems.
+      simulation of rovibrational dynamics and spectra.
       </p>
 
       <p float="left">
@@ -122,57 +122,18 @@ Graduate and undergraduate student positions available! Send an email to Ryan fo
     </td>
     <td style="padding-left: 30px">
       <h3>Katlyn Near</h3>
-      <p><b>Honours Student</b></p>
+      <p><b>Part-time research assistant</b></p>
 
       <p>
       Katlyn is a student in the Department of Chemistry at Dal. She started
       her B.Sc. in 2021, and worked in the group in 2023-2024 as a research
-      assistant. She has returned in 2024 to continue her project focusing on
-      visualizing and identifying trends in projections of conical intersection
-      seams.
+      assistant. She returned in 2024 to complete her Honours project focusing on
+      visualizing conical intersection seams. She is currently working part-time
+      on wrapping up her project before starting her M.Sc. at Cambridge.
       </p>
 
       <p float="left">
         <a href="mailto:kt397109@dal.ca"><img src="/images/icons8-mail.svg" /></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="/images/vain_profile.jpg" alt="Photo of Fanny Vain" />
-    </td>
-    <td style="padding-left: 30px">
-      <h3>Fanny Vain</h3>
-      <p><b>Honours Student</b></p>
-
-      <p>
-      Fanny is a student in the Department of Chemistry at Dal. She started her B.Sc.
-      in 2021. Her Honours project is focused on the role of property conservation
-      in digital quantum algorithms for quantum chemistry.
-      </p>
-
-      <p float="left">
-        <a href="maito:fvain@dal.ca"><img src="/images/icons8-mail.svg" /></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="/images/aperez_profile.jpg" alt="Photo of Andy Arrigoni Pérez" />
-    </td>
-    <td style="padding-left: 30px">
-      <h3>Andy Arrigoni Pérez</h3>
-      <p><b>Research Assistant</b></p>
-
-      <p>
-      Andy is a visiting research assistant for the winter semester. He recently
-      completed his B.A. in physics and computer science at Amherst College. His
-      research project involves the implementation of a direct dynamics algorithm
-      without the Born-Oppenheimer approximation.
-      </p>
-
-      <p float="left">
-        <a href="maito:AArrigoniPerez@dal.ca"><img src="/images/icons8-mail.svg" /></a>
       </p>
     </td>
   </tr>
@@ -219,10 +180,16 @@ At the Hailfax Waterfront. From left to right: Jongkwon, Ryan, Veronika
 </thead>
 <tbody>
   <tr>
-    <td>Veronika Keras</td>
-    <td>Summer research student</td>
-    <td>May-Aug. 2023</td>
+    <td>Fanny Vain</td>
+    <td>Honours student</td>
+    <td>Sept. 2024-Apr. 2025</td>
     <td>Completing B.Sc. at Dal</td>
+  </tr>
+  <tr>
+    <td>Andy Arrigoni-Pérez</td>
+    <td>Research Assistant</td>
+    <td>Jan.-Apr. 2025</td>
+    <td>Graduate student</td>
   </tr>
   <tr>
     <td>Alex MacDonald</td>
@@ -234,6 +201,12 @@ At the Hailfax Waterfront. From left to right: Jongkwon, Ryan, Veronika
     <td>Sohan Sanjeev</td>
     <td>Summer research student</td>
     <td>May-Aug. 2024</td>
+    <td>Completing B.Sc. at Dal</td>
+  </tr>
+  <tr>
+    <td>Veronika Keras</td>
+    <td>Summer research student</td>
+    <td>May-Aug. 2023</td>
     <td>Completing B.Sc. at Dal</td>
   </tr>
 </tbody>
