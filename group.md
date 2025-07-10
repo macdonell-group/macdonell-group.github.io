@@ -89,7 +89,7 @@ Graduate and undergraduate student positions available! Send an email to Ryan fo
       </p>
 
       <p float="left">
-        <a href="mailto:none"><img src="/images/icons8-mail.svg" /></a>
+        <a href="mailto:ed813427@dal.ca"><img src="/images/icons8-mail.svg" /></a>
         <a href="https://scholar.google.ca/citations?user=74aeDEoAAAAJ"><img src="/images/icons8-google-scholar.svg" /></a>
         <a href="https://mx.linkedin.com/in/edith-leal-s%C3%A1nchez-47522925b"><img src="/images/icons8-linkedin.svg" /></a>
       </p>
